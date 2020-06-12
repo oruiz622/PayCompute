@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p5Jl6O7+RUUm/lm/Dzybi96DxepceyF/jF0EVBBjB4KW+bPbDp7fFY5ChY6FBfhtCBa1Av3RjudgLqn+Mhsr0A==",
+  "dgSpecHash": "huJioqqJKqYdQ1P+4R1IEkEwfFC6khnIrnprfl92eUrH/Vqlf4vjtXALgCwEnPpYfeRdlI8imtiC6fO++meVrA==",
   "success": true,
-  "projectFilePath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+  "projectFilePath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oruiz\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\oruiz\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",

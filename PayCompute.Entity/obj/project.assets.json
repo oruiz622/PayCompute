@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputer.Entity\\PayCompute.Entity.csproj",
+      "projectUniqueName": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "projectName": "PayCompute.Entity",
-      "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputer.Entity\\PayCompute.Entity.csproj",
+      "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "packagesPath": "C:\\Users\\oruiz\\.nuget\\packages\\",
-      "outputPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputer.Entity\\obj\\",
+      "outputPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

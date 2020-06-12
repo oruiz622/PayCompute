@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PayCompute.Persistence\PayCompute.Persistence.csproj" />
-    <ProjectReference Include="..\PayComputer.Entity\PayCompute.Entity.csproj" />
+    <ProjectReference Include="..\PayCompute.Entity\PayCompute.Entity.csproj" />
   </ItemGroup>
 
 </Project>

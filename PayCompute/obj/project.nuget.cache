@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wdc4KR4riCB/fJGoQ9CDcZXhqh70k1uXUJ8Cxn6cZfDloxPycofhsI3MyC66bTouG2TtN54KS8Ey63bcmGXTUg==",
+  "dgSpecHash": "peRCixVsVx+V6HHfl1sTGzU47C6ZKu1fvQE6NSvRAJHZuNHzNXFHj5ZHwyQlnAuUJEJRo7C36jF8A+Clt3tilA==",
   "success": true,
-  "projectFilePath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute\\PayCompute.csproj",
+  "projectFilePath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute\\PayCompute.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oruiz\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\oruiz\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

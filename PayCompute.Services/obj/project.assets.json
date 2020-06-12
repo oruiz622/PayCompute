@@ -4413,8 +4413,8 @@
     },
     "PayCompute.Entity/1.0.0": {
       "type": "project",
-      "path": "../PayComputer.Entity/PayCompute.Entity.csproj",
-      "msbuildProject": "../PayComputer.Entity/PayCompute.Entity.csproj"
+      "path": "../PayCompute.Entity/PayCompute.Entity.csproj",
+      "msbuildProject": "../PayCompute.Entity/PayCompute.Entity.csproj"
     },
     "PayCompute.Persistence/1.0.0": {
       "type": "project",
@@ -4436,11 +4436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute.Services\\PayCompute.Services.csproj",
+      "projectUniqueName": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Services\\PayCompute.Services.csproj",
       "projectName": "PayCompute.Services",
-      "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute.Services\\PayCompute.Services.csproj",
+      "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Services\\PayCompute.Services.csproj",
       "packagesPath": "C:\\Users\\oruiz\\.nuget\\packages\\",
-      "outputPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute.Services\\obj\\",
+      "outputPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4460,11 +4460,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute.Persistence\\PayCompute.Persistence.csproj": {
-              "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayCompute.Persistence\\PayCompute.Persistence.csproj"
+            "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+              "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Entity\\PayCompute.Entity.csproj"
             },
-            "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputer.Entity\\PayCompute.Entity.csproj": {
-              "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputer.Entity\\PayCompute.Entity.csproj"
+            "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Persistence\\PayCompute.Persistence.csproj": {
+              "projectPath": "F:\\ORUIZ-LP\\MyDocuments\\Laptop-oruiz622\\projects\\Udemy_Projects\\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\\projects\\PayComputeApp\\PayCompute.Persistence\\PayCompute.Persistence.csproj"
             }
           }
         }
