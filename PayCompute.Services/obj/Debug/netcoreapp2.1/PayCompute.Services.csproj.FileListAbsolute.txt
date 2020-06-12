@@ -1,0 +1,14 @@
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Services.deps.json
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Services.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Services.pdb
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Persistence.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Persistence.pdb
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.csprojAssemblyReference.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.AssemblyInfoInputs.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.AssemblyInfo.cs
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.csproj.CoreCompileInputs.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.csproj.CopyComplete
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\obj\Debug\netcoreapp2.1\PayCompute.Services.pdb
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Entity.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Services\bin\Debug\netcoreapp2.1\PayCompute.Entity.pdb

@@ -1,0 +1,15 @@
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.csprojAssemblyReference.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.AssemblyInfoInputs.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.AssemblyInfo.cs
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Persistence.deps.json
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Persistence.runtimeconfig.json
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Persistence.runtimeconfig.dev.json
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Persistence.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Persistence.pdb
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.csproj.CoreCompileInputs.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.csproj.CopyComplete
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.pdb
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\obj\Debug\netcoreapp2.1\PayCompute.Persistence.genruntimeconfig.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Entity.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayCompute.Persistence\bin\Debug\netcoreapp2.1\PayCompute.Entity.pdb
