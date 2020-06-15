@@ -1,6 +1,6 @@
 ﻿namespace PayCompute.Entity
 {
-    public enum StudentLoad
+    public enum StudentLoan
     {
         Yes, 
         No

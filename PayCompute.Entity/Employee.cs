@@ -20,6 +20,7 @@ namespace PayCompute.Entity
         [Required, MaxLength(50)]
         public string LastName { get; set; }
         public string FullName { get; set; }
+        public string Phone { get; set; }
         public string Gender { get; set; }
         public string ImageUrl { get; set; }
         public DateTime DOB { get; set; }
@@ -30,7 +31,7 @@ namespace PayCompute.Entity
         [Required, MaxLength(50)]
         public string NationalInsuranceNo { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
-        public StudentLoad StudentLoad { get; set; }
+        public StudentLoan StudentLoan { get; set; }
         public UnionMember UnionMember { get; set; }
 
         [Required, MaxLength(150)]

@@ -1,10 +1,9 @@
-﻿using System;
+﻿using PayCompute.Entity;
+using PayCompute.Persistence;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using PayCompute.Entity;
 using System.Threading.Tasks;
-using PayCompute.Persistence;
 
 namespace PayCompute.Services.Implementation
 {
