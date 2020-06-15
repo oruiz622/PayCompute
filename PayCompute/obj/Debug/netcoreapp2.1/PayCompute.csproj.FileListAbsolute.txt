@@ -88,3 +88,5 @@ F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterpr
 F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayComputeApp\PayCompute\obj\Debug\netcoreapp2.1\PayCompute.dll
 F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayComputeApp\PayCompute\obj\Debug\netcoreapp2.1\PayCompute.pdb
 F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayComputeApp\PayCompute\obj\Debug\netcoreapp2.1\PayCompute.genruntimeconfig.cache
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayComputeApp\PayCompute\bin\Debug\netcoreapp2.1\PayCompute.Services.dll
+F:\ORUIZ-LP\MyDocuments\Laptop-oruiz622\projects\Udemy_Projects\Build_an_Enterprise_App_w_AspDotNetCore_Nwosu\projects\PayComputeApp\PayCompute\bin\Debug\netcoreapp2.1\PayCompute.Services.pdb

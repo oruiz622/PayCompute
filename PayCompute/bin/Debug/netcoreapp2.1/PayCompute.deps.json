@@ -28,7 +28,8 @@
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
           "PayCompute.Entity": "1.0.0",
-          "PayCompute.Persistence": "1.0.0"
+          "PayCompute.Persistence": "1.0.0",
+          "PayCompute.Services": "1.0.0"
         },
         "runtime": {
           "PayCompute.dll": {}
@@ -249,6 +250,18 @@
         },
         "compile": {
           "PayCompute.Persistence.dll": {}
+        }
+      },
+      "PayCompute.Services/1.0.0": {
+        "dependencies": {
+          "PayCompute.Entity": "1.0.0",
+          "PayCompute.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "PayCompute.Services.dll": {}
+        },
+        "compile": {
+          "PayCompute.Services.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3351,6 +3364,11 @@
       "sha512": ""
     },
     "PayCompute.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PayCompute.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
